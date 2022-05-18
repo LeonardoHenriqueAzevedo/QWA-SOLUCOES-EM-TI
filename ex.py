@@ -59,9 +59,9 @@ while contador < candidatos:
             f"\033[1;31mErro! Informe novamente o CPF do candidato: \033[m")
     cpf = float(cpf)
     for i in lista_cpfs:
-        if i == cpf:
-            cpf = input(
-                f"\033[1;31mErro! Esse CPF já existe em nossos dados, informe novamente o CPF do candidato: \033[m")
+        while i == cpf:
+            cpf = float(input(
+                f"\033[1;31mErro! Esse CPF já existe em nossos dados, informe novamente o CPF do candidato: \033[m"))
     lista_cpfs.append(cpf)
 
     # Data de Nascimento
@@ -132,4 +132,4 @@ if revisar[0].capitalize() == "S":
         contador += 1
 
 if revisar[0].capitalize() == "N":
-    print("Finalizando sistema de cadastro de candidatos!")
+    print("Finalizado sistema de cadastro de candidatos!")
