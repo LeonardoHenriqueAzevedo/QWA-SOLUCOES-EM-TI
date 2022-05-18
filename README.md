@@ -9,5 +9,9 @@ Meu número de contato: 11 97763-1450
     <img alt="qwa-solucoes" title="qwa-solucoes" src="github/qwa-solucoes.gif">
 </h1>
 
-# 💻 Technologies
+# 💻 Tecnologias
 - **PYTHON**
+
+# 📞 Contato
+- E-mail: leonardohenriquedeazevedo@gmail.com
+- Número: 11 97763-1450
