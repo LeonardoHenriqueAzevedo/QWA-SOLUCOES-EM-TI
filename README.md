@@ -9,7 +9,7 @@ Meu número de contato: 11 97763-1450
     <img alt="qwa-solucoes" title="qwa-solucoes" src="github/qwa-solucoes.gif">
 </h1>
 
-# 💻 Tecnologias
+# 💻 Tecnologia Utilizada
 - **PYTHON**
 
 # 📞 Contato
